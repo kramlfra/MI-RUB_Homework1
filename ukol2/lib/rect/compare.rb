@@ -1,7 +1,9 @@
 #compare
 require_relative './rectangle'
 module CompareModule	
+	
 	def CompareModule.compare(rectangles)
+		
 		#print "compare v cajku"
 		#p rectangles
 		rect1 = rectangles[0]
@@ -19,9 +21,13 @@ module CompareModule
 			#print "BadArea dvou ctvercu je "+badArea.to_s+"\n"
 			#print "completArea dvou ctvercu je "+completArea.to_s+"\n"
 			print "Obsah sjednoceni dvou ctvercu je "+rightArea.to_s+"\n"
+			return rightArea
 		else
 			print "Ctverce se ani nedotykaji"
+			return 0
 		end
+		
+		
 		
 	end
 	
