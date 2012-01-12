@@ -1,0 +1,40 @@
+2
+3
+4
+
+jak jsi se dnes vyspal?
+dobre
+spatne
+velmi spatne
+nespal jsem
+
+kolik mas deti?
+0
+1
+2
+vice
+
+co je dnes za den?
+pondeli
+streda
+sobota
+nevim
+
+
+v kolik rano vstavas?
+pred patou
+mezi patou sestou
+mezi sestou sedmou
+po sedme
+
+jsi retard?
+uplny
+myslim ze nekdy ano
+asi nejsem, ale jisty to neni
+nejsem retard
+
+typ tveho mobilu
+dotykovy nejnovejsi
+dotykovy stary model
+starsi model bez dotykove obrazovky
+alternativni zbran

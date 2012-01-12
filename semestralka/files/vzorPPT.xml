@@ -1,0 +1,20 @@
+<slides count="1" id="1234">
+
+  <slide id="1111111" type="Q" multiresponse="1">
+
+   <question>What is your gender?</question>
+
+
+   <topic id="2222222" ></topic>
+
+   
+   <answers>
+	<answer value="1">Female</answer>
+        <answer value="2">Male</answer>
+   </answers>
+
+  </slide>
+
+  
+</slides>
+

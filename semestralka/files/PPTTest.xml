@@ -1,0 +1,61 @@
+<slides count="3" id="1234">
+	<slide id="1" type="Q" multiresponse="1">
+		<question>
+			v kolik rano vstavas?
+		</question>
+		<topic id="2222222" ></topic>
+		<answers>
+			<answer value="1">
+				pred patou
+			</answer>
+			<answer value="2">
+				mezi patou sestou
+			</answer>
+			<answer value="3">
+				mezi sestou sedmou
+			</answer>
+			<answer value="4">
+				po sedme
+			</answer>
+		</answers>
+	</slide>
+	<slide id="2" type="Q" multiresponse="1">
+		<question>
+			jsi retard?
+		</question>
+		<topic id="2222222" ></topic>
+		<answers>
+			<answer value="1">
+				uplny
+			</answer>
+			<answer value="2">
+				myslim ze nekdy ano
+			</answer>
+			<answer value="3">
+				asi nejsem, ale jisty to neni
+			</answer>
+			<answer value="4">
+				nejsem retard
+			</answer>
+		</answers>
+	</slide>
+	<slide id="3" type="Q" multiresponse="1">
+		<question>
+			typ tveho mobilu
+		</question>
+		<topic id="2222222" ></topic>
+		<answers>
+			<answer value="1">
+				dotykovy nejnovejsi
+			</answer>
+			<answer value="2">
+				dotykovy stary model
+			</answer>
+			<answer value="3">
+				starsi model bez dotykove obrazovky
+			</answer>
+			<answer value="4">
+				alternativni zbran			</answer>
+		</answers>
+	</slide>
+</slides>
